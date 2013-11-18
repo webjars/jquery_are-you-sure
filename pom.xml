@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery_are-you-sure</artifactId>
-    <version>1.5.0</version>
+    <version>1.5.1-SNAPSHOT</version>
     <name>jquery.AreYouSure</name>
     <description>WebJar for jquery.AreYouSure</description>
     <url>http://webjars.org</url>
@@ -35,7 +35,7 @@
         <url>http://github.com/webjars/jquery_are-you-sure</url>
         <connection>scm:git:https://github.com/webjars/jquery_are-you-sure.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery_are-you-sure.git</developerConnection>
-        <tag>jquery_are-you-sure-1.5.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
